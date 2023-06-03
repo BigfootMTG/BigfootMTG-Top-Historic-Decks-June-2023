@@ -1,0 +1,36 @@
+Companion
+1 Lurrus of the Dream-Den (IKO) 226
+
+Deck
+1 Ornithopter (KLR) 255
+3 Ornithopter (BRR) 37
+4 Esper Sentinel (MH2) 12
+2 Hope of Ghirapur (KLR) 243
+4 Vault Skirge (NPH) 76
+4 Ingenious Smith (AFR) 21
+4 Michiko's Reign of Truth (NEO) 29
+3 Innovative Metatect (Y23) 24
+4 Retrofitter Foundry (C18) 57
+4 Portable Hole (AFR) 33
+1 Metallic Rebuke (KLR) 56
+4 Ensoul Artifact (M15) 54
+4 Darksteel Citadel (M15) 242
+4 Adarkar Wastes (DMU) 243
+4 Seachrome Coast (ONE) 258
+4 Hengegate Pathway (KHM) 260
+4 Hallowed Fountain (RNA) 251
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Plains (MIR) 331
+
+Sideboard
+1 Hushbringer (ELD) 18
+1 Lurrus of the Dream-Den (IKO) 226
+3 Glass Casket (ELD) 15
+1 Pithing Needle (MID) 257
+1 Fight as One (IKO) 12
+1 Hushbringer (ELD) 18
+3 Metallic Rebuke (KLR) 56
+1 Unlicensed Hearse (SNC) 246
+1 Negate (M20) 69
+1 Damping Sphere (DAR) 213
+1 Soul-Guide Lantern (THB) 237

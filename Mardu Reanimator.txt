@@ -1,0 +1,38 @@
+Companion
+1 Jegantha, the Wellspring (IKO) 222
+
+Deck
+4 Atraxa, Grand Unifier (ONE) 196
+4 Priest of Fell Rites (MH2) 208
+4 Crucias, Titan of the Waves (Y23) 18
+4 Bloodtithe Harvester (VOW) 232
+4 Fable of the Mirror-Breaker (NEO) 141
+2 Fragment Reality (Y22) 4
+4 Fatal Push (KLR) 84
+4 Unburial Rites (ISD) 122
+4 Thoughtseize (AKR) 127
+1 Inquisition of Kozilek (STA) 31
+2 Blackcleave Cliffs (ONE) 248
+4 Sacred Foundry (GRN) 254
+1 Brightclimb Pathway (ZNR) 259
+4 Concealed Courtyard (KLR) 282
+2 Phyrexian Scrapyard (Y23) 30
+1 Haunted Ridge (MID) 263
+1 Blood Crypt (RNA) 245
+4 Blightstep Pathway (KHM) 252
+2 Inspiring Vantage (KLR) 283
+1 Swamp (MIR) 340
+2 Godless Shrine (RNA) 248
+1 Savai Triome (IKO) 253
+
+Sideboard
+1 Kolaghan's Command (DTK) 224
+1 Jegantha, the Wellspring (IKO) 222
+2 Pithing Needle (MID) 257
+2 Fragment Reality (Y22) 4
+1 Inquisition of Kozilek (STA) 31
+1 Kolaghan's Command (DTK) 224
+1 Soul-Guide Lantern (THB) 237
+2 Abrade (AKR) 136
+3 Serra's Emissary (MH2) 30
+1 Brotherhood's End (BRO) 128

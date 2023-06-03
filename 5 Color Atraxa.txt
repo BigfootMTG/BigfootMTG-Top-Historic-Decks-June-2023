@@ -1,0 +1,35 @@
+Companion
+1 Jegantha, the Wellspring (IKO) 222
+
+Deck
+4 Territorial Kavu (MH2) 216
+4 Slimefoot and Squee (MOC) 447
+4 Crucias, Titan of the Waves (Y23) 18
+3 Atraxa, Grand Unifier (ONE) 196
+4 Fable of the Mirror-Breaker (NEO) 141
+2 Slimefoot, Thallid Transplant (Y23) 26
+3 Fatal Push (KLR) 84
+4 Lightning Helix (STA) 62
+1 Sheoldred's Edict (ONE) 108
+4 Leyline Binding (DMU) 24
+1 Swamp (MIR) 340
+2 Temple Garden (GRN) 258
+4 Spara's Headquarters (SNC) 257
+4 Xander's Lounge (SNC) 260
+2 Stomping Ground (RNA) 259
+4 Jetmir's Garden (SNC) 250
+2 Savai Triome (IKO) 253
+2 Indatha Triome (IKO) 248
+2 Overgrown Tomb (GRN) 253
+4 Blood Crypt (RNA) 245
+
+Sideboard
+1 Jegantha, the Wellspring (IKO) 222
+1 Fatal Push (KLR) 84
+1 Go for the Throat (BRO) 102
+4 Thoughtseize (AKR) 127
+1 Elesh Norn, Mother of Machines (ONE) 10
+2 Deafening Clarion (GRN) 165
+2 Go Blank (STX) 72
+1 Slaughter Games (RTR) 197
+2 Hidetsugu Consumes All (NEO) 221

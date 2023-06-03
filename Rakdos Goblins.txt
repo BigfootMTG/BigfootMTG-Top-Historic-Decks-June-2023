@@ -1,0 +1,28 @@
+Deck
+4 Skirk Prospector (DAR) 144
+4 Munitions Expert (MH1) 209
+4 Battle Cry Goblin (AFR) 132
+4 Conspicuous Snoop (M21) 139
+4 Rundvelt Hordemaster (DMU) 142
+2 Goblin Warchief (DAR) 130
+4 Sling-Gang Lieutenant (MH1) 108
+4 Fable of the Mirror-Breaker (NEO) 141
+4 Sulfurous Springs (DMU) 256
+4 Blightstep Pathway (KHM) 252
+2 Den of the Bugbear (AFR) 254
+2 Haunted Ridge (MID) 263
+4 Secluded Courtyard (NEO) 275
+4 Blood Crypt (RNA) 245
+5 Mountain (MIR) 346
+3 Hobgoblin Bandit Lord (AFR) 147
+2 Wily Goblin (XLN) 174
+
+Sideboard
+4 Chandra, Dressed to Kill (VOW) 149
+3 Fatal Push (KLR) 84
+1 Fatal Push (KLR) 84
+1 Goblin Trashmaster (M19) 144
+2 Goblin Trashmaster (ANB) 72
+2 Unlicensed Hearse (SNC) 246
+1 Hidetsugu Consumes All (NEO) 221
+1 Strangle (SNC) 125

@@ -1,0 +1,51 @@
+Companion
+1 Jegantha, the Wellspring (IKO) 222
+
+Deck
+4 Territorial Kavu (MH2) 216
+3 Niv-Mizzet Reborn (WAR) 208
+1 Niv-Mizzet Reborn (MUL) 118
+4 Crucias, Titan of the Waves (Y23) 18
+1 Kroxa, Titan of Death's Hunger (THB) 221
+1 Tyrant's Scorn (WAR) 225
+1 Dovin's Veto (WAR) 193
+3 Lightning Helix (STA) 62
+1 Prismari Command (STX) 214
+2 Kolaghan's Command (DTK) 224
+1 Bind to Secrecy (Y22) 19
+1 Fragment Reality (Y22) 4
+1 Deafening Clarion (GRN) 165
+4 Expressive Iteration (STX) 186
+4 Leyline Binding (DMU) 24
+2 Raffine's Tower (SNC) 254
+1 Xander's Lounge (SNC) 260
+1 Ziatora's Proving Ground (SNC) 261
+2 Jetmir's Garden (SNC) 250
+1 Spara's Headquarters (SNC) 257
+1 Savai Triome (IKO) 253
+2 Ketria Triome (IKO) 250
+1 Indatha Triome (IKO) 248
+2 Raugrin Triome (IKO) 251
+1 Zagoth Triome (IKO) 259
+1 Stomping Ground (RNA) 259
+2 Blood Crypt (RNA) 245
+2 Godless Shrine (RNA) 248
+1 Watery Grave (GRN) 259
+2 Sacred Foundry (GRN) 254
+1 Overgrown Tomb (GRN) 253
+2 Hallowed Fountain (RNA) 251
+1 Steam Vents (GRN) 257
+1 Temple Garden (GRN) 258
+1 Mountain (MIR) 346
+
+Sideboard
+2 Rest in Peace (AKR) 33
+1 Fragment Reality (Y22) 4
+1 Jegantha, the Wellspring (IKO) 222
+2 Fatal Push (KLR) 84
+1 Dovin's Veto (WAR) 193
+1 Deafening Clarion (GRN) 165
+1 Dovin's Veto (WAR) 193
+3 Mystical Dispute (ELD) 58
+2 Divine Purge (Y22) 4
+1 Lightning Helix (STA) 62

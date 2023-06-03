@@ -1,0 +1,34 @@
+Deck
+1 Muxus, Goblin Grandee (JMP) 24
+4 Skirk Prospector (DAR) 144
+2 Goblin Trapfinder (HBG) 56
+4 Rundvelt Hordemaster (DMU) 142
+4 Goblin Instigator (M19) 142
+4 Goblin Anarchomancer (MH2) 200
+4 Goblin Matron (MH1) 129
+4 Goblin Warchief (DAR) 130
+1 Pashalik Mons (MH1) 138
+1 Krenko, Mob Boss (JMP) 339
+2 Wily Goblin (XLN) 174
+1 Goblin Ringleader (M20) 143
+4 Cabaretti Revels (Y22) 21
+4 Stomping Ground (RNA) 259
+2 Den of the Bugbear (AFR) 254
+4 Cragcrown Pathway (ZNR) 261
+4 Karplusan Forest (DMU) 250
+2 Rockfall Vale (MID) 266
+3 Mountain (MIR) 346
+1 Sokenzan, Crucible of Defiance (NEO) 276
+4 Copperline Gorge (ONE) 249
+
+Sideboard
+2 Strangle (SNC) 125
+2 Masked Vandal (KHM) 184
+2 Soul-Guide Lantern (THB) 237
+1 Gempalm Incinerator (LGN) 94
+1 Goblin Ringleader (M20) 143
+1 Pashalik Mons (MH1) 138
+1 Squee, Dubious Monarch (DMU) 146
+1 Goblin Trashmaster (ANB) 72
+2 Brotherhood's End (BRO) 128
+2 Goblin Influx Array (Y23) 13
